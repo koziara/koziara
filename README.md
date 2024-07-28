@@ -1,6 +1,6 @@
 <p align="center">**Hello! I'm Natalia :wave:**</p>
 
-<p align="center">I'm a fourth semester student of Software Technology Engineering at VIA University College in Horsens.</p>
+<p align="center">I'm a seventh semester student of Software Technology Engineering at VIA University College in Horsens.</p>
 
 - I’m currently improving my skills in developing projects in: JAVA, C#, HTML, CSS, JS, PostgreSQL
 - 💬 Ask me about my skills
